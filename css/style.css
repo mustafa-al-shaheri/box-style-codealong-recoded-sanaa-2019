@@ -250,7 +250,9 @@ margin: 0 0 30px;
   color: white;
 }
 
-class="selected"
+#navbar  nav a:hover{
+  
+}
 
 /*////////// LOGO //////////*/
 
