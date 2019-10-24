@@ -318,12 +318,12 @@ background: linear-gradient(
   rgba(0, 0, 0, 1) 100%
 ); /* W3C */
 }
+
+/*////////// LOGO //////////*/
+
 #logo{
   padding: 84px 0 0 ;
 }
-/*////////// LOGO //////////*/
-
-
 
 #logo h1 {
   font-family: 'Clicker Script', cursive;
